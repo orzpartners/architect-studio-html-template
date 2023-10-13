@@ -1,0 +1,27 @@
+.float{
+	position:fixed;
+	width:100px;
+	height:30px;
+	bottom:40px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+	text-decoration: none;
+	font-weight: bold;
+}
+.float span{
+	vertical-align: middle
+}
+.my-float{
+	margin-top:22px;
+}
+/*
+<link rel="stylesheet" href="vendor/css/float.css">
+
+<a href="404-1/404-1.zip" class="float">
+	<span>Download</span>
+</a>
+*/
